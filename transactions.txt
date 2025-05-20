@@ -1,0 +1,2 @@
+EXPENSE - food       ₹2000.00 on 2025-05-20
+INCOME - businees   ₹5000.00 on 2025-05-15
